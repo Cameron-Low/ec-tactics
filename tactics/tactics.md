@@ -10,14 +10,19 @@ header-includes: |
 # Ambient Logic
 [Tactics](ambient/ambient.md)
 
+# Hoare Logic
+[Tactics](hl/hl.md)
+
+# Probabilistic Hoare Logic
+[Tactics](phl/phl.md)
+
+# Probabilistic Relational Hoare Logic
+[Tactics](prhl/prhl.md)
+
 # Undocumented program (not ambient) logic tactics
 
 To be documented
 
- - `proc`
- - `proc <sformula>`
- - `proc <sformula> <sformula> <sformula>`
- - `proc '*'`
  - `wp <codepos1>`
  - `sp <codepos1>`
  - `skip`
